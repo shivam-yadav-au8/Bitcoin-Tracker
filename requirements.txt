@@ -14,4 +14,5 @@ python-dateutil==2.8.1    # via matplotlib, pandas
 pytz==2020.4              # via pandas
 scipy==1.5.4              # via seaborn
 seaborn==0.10.1
+sklearn==0.0
 six==1.15.0               # via cycler, python-dateutil
